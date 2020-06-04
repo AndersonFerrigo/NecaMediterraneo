@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">O Neca Mediterraneo</string>
+    <string name="splash_description">Logomarca do aplicativo</string>
+    <string name="connection_error_description">Imagem responsável por indicar erro na conexão com a internet</string>
+    <string name="snackbar_error_description">Sem conexão com a internet, tentar novamente.</string>
+    <string name="undo">Restry</string>
+
+</resources>
